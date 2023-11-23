@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 ,====== 央视,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV-1
+http://stream10.fjtv.net/cctv1_hd/1700731021/1700733500059.ts?_upt=b30717ef1700744300
+#EXTINF:-1 ,CCTV-2
+http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1700733527-1-1620083719.hls.ts
+#EXTINF:-1 ,CCTV-3
+http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1700746364-1-1620085911.hls.ts
+#EXTINF:-1 ,CCTV-4
+http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1700746650-1-1620089362.hls.ts
+#EXTINF:-1 ,CCTV-5
+http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1700746652-1-1620087447.hls.ts
+#EXTINF:-1 ,CCTV-5+
+http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1700746677-1-1620083775.hls.ts
+#EXTINF:-1 ,CCTV-6
+http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1700746697-1-1620086818.hls.ts
+#EXTINF:-1 ,CCTV-7
+http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1700746714-1-1620084094.hls.ts
+#EXTINF:-1 ,CCTV-8
+http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1700746740-1-1620082634.hls.ts
+#EXTINF:-1 ,CCTV-9
+http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1700746746-1-1620087479.hls.ts
+#EXTINF:-1 ,CCTV-10
+http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1700746774-1-1620082061.hls.ts
+#EXTINF:-1 ,CCTV-11
+http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1700746785-1-1620087194.hls.ts
+#EXTINF:-1 ,CCTV-12
+http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1700746806-1-1620091033.hls.ts
+#EXTINF:-1 ,CCTV-13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd/1700746836_17668265.ts
+#EXTINF:-1 ,CCTV-14
+http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1700746824-1-1620077123.hls.ts
+#EXTINF:-1 ,CCTV-15
+http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1700746830-1-1620088952.hls.ts
+#EXTINF:-1 ,CCTV-16
+http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1700746911-1-1641769788.hls.ts
+#EXTINF:-1 ,CCTV-4K
+https://epg.pw/stream/4b1392519ec769f0d527078ce03c44ff3c1732b707b17c4218a814712e5dc7cb.m3u8
+#EXTINF:-1 ,====== 港澳及国外,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,翡翠
+http://sl2023hk01.stream-link.online/hongkong/astro_jade?token=MsqQktkVETSlHZvdThHbLw&expires=1700751402
+#EXTINF:-1 ,明珠
+http://183.238.66.1:9090/live/1351_4500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&cid=30&d=61bc79e2f63c4cd8&sid=XXKH63PZxnlrezYr11K5PA==&r=20231123215755&e=20231124035800&nc=AjgIaEpttrrG&a=1&v=2&isSuma=1&hlsSessionID=1429613102071457688&srchost=172.16.149.181:8060&gid=kCqx8pR81NThYtgQ%2F%2BXcRg%3D%3D
+#EXTINF:-1 ,TVBS新闻
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 ,中天新闻
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 ,三立新闻
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1 ,东森新闻
+https://www.youtube.com/watch?v=S5WOGu2HSes
+#EXTINF:-1 ,寰宇新闻
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1 ,民视新闻
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 ,华视新闻
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 ,公视新闻
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 ,台视新闻
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 ,中视新闻
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 ,TVBS Live
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 ,TVBS 56
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+#EXTINF:-1 ,中天新闻2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 ,寰宇新闻台湾
+https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+#EXTINF:-1 ,凤凰资讯台
+https://www.youtube.com/watch?v=if6yQq_JJyY
+#EXTINF:-1 ,东森直播
+https://www.youtube.com/watch?v=R2iMq5LKXco
+#EXTINF:-1 ,东森财经
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1 ,三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1 ,三立海外
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1 ,TaiwanPlus
+https://www.youtube.com/watch?v=dZp87qnWelE
+#EXTINF:-1 ,镜新闻
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 ,东京都-新宿
+https://www.youtube.com/watch?v=DjdUEyjx8GM
+#EXTINF:-1 ,台湾地震监视
+https://www.youtube.com/watch?v=Owke6Quk7T0
+#EXTINF:-1 ,新唐人
+https://www.youtube.com/watch?v=WIhgU_mc05A
+#EXTINF:-1 ,信大电视台
+https://www.youtube.com/watch?v=AQymzwl3uSk
+#EXTINF:-1 ,NBC NEW
+https://www.youtube.com/watch?v=0IUbD_4ytuo
+#EXTINF:-1 ,DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1 ,FRANCE 24
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1 ,Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 ,ABC News
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1 ,Euronews
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1 ,CNA
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 ,National Geographic
+https://www.youtube.com/watch?v=306xLRnW3Cc
+#EXTINF:-1 ,Nat Geo WILD
+https://www.youtube.com/watch?v=6zGV59Ldp3s
+#EXTINF:-1 ,ANIMALS OF AFRICA 4K
+https://www.youtube.com/watch?v=XHI_U7suyxg
+#EXTINF:-1 ,GREAT HUNTER - 4K
+https://www.youtube.com/watch?v=vQP8AwAFzI8
+#EXTINF:-1 ,Most Beautiful Places 12K
+https://www.youtube.com/watch?v=Rse-E5tARaY
+#EXTINF:-1 ,4K African Animal
+https://www.youtube.com/watch?v=rkPCR6Ujtak
+#EXTINF:-1 ,====== 地方,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,安徽卫视
+https://php.61073736.repl.co/sxg.php?id=ahwsH265_4000
+#EXTINF:-1 ,北京卫视
+https://php.61073736.repl.co/sxg.php?id=bjwsH265_4000
+#EXTINF:-1 ,兵团卫视
+https://php.61073736.repl.co/sxg.php?id=btws_4000
+#EXTINF:-1 ,重庆卫视
+https://php.61073736.repl.co/sxg.php?id=cqwsH265_4000
+#EXTINF:-1 ,东方卫视
+https://php.61073736.repl.co/sxg.php?id=dfwsH265_4000
+#EXTINF:-1 ,东南卫视
+https://php.61073736.repl.co/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1 ,甘肃卫视
+https://php.61073736.repl.co/sxg.php?id=gsws_4000
+#EXTINF:-1 ,广东卫视
+https://php.61073736.repl.co/sxg.php?id=gdwsH265_4000
+#EXTINF:-1 ,广西卫视
+https://php.61073736.repl.co/sxg.php?id=gxws_4000
+#EXTINF:-1 ,贵州卫视
+https://php.61073736.repl.co/sxg.php?id=gzwsH265_4000
+#EXTINF:-1 ,海南卫视
+https://php.61073736.repl.co/sxg.php?id=hnws_4000
+#EXTINF:-1 ,河南卫视
+https://php.61073736.repl.co/sxg.php?id=hnws35_4000
+#EXTINF:-1 ,黑龙江卫视
+https://php.61073736.repl.co/sxg.php?id=hljwsH265_4000
+#EXTINF:-1 ,湖北卫视
+https://php.61073736.repl.co/sxg.php?id=hbwsH265_4000
+#EXTINF:-1 ,湖南卫视
+https://php.61073736.repl.co/sxg.php?id=hnwsH265_4000
+#EXTINF:-1 ,吉林卫视
+https://php.61073736.repl.co/sxg.php?id=jlwsH265_4000
+#EXTINF:-1 ,江苏卫视
+https://php.61073736.repl.co/sxg.php?id=jswsH265_4000
+#EXTINF:-1 ,江西卫视
+https://php.61073736.repl.co/sxg.php?id=jxwsH265_4000
+#EXTINF:-1 ,康巴卫视
+https://php.61073736.repl.co/sxg.php?id=kbwsH264_2000
+#EXTINF:-1 ,辽宁卫视
+https://php.61073736.repl.co/sxg.php?id=lnwsHDH264_4000
+#EXTINF:-1 ,内蒙古卫视
+https://php.61073736.repl.co/sxg.php?id=nmgws_4000
+#EXTINF:-1 ,山东教育卫视
+https://php.61073736.repl.co/sxg.php?id=sdjy_4000
+#EXTINF:-1 ,山东卫视
+https://php.61073736.repl.co/sxg.php?id=sdwsH265_4000
+#EXTINF:-1 ,山西卫视
+https://php.61073736.repl.co/sxg.php?id=sxws42_4000
+#EXTINF:-1 ,陕西卫视
+https://php.61073736.repl.co/sxg.php?id=sxws_4000
+#EXTINF:-1 ,深圳卫视
+https://php.61073736.repl.co/sxg.php?id=szwsH265_4000
+#EXTINF:-1 ,四川卫视
+https://php.61073736.repl.co/sxg.php?id=scwsH265_4000
+#EXTINF:-1 ,天津卫视
+https://php.61073736.repl.co/sxg.php?id=tjwsH265_4000
+#EXTINF:-1 ,西藏卫视
+https://php.61073736.repl.co/sxg.php?id=xzwsH264_2000
+#EXTINF:-1 ,云南卫视
+https://php.61073736.repl.co/sxg.php?id=ynws_4000
+#EXTINF:-1 ,浙江卫视
+https://php.61073736.repl.co/sxg.php?id=zjwsH265_4000
